@@ -1,0 +1,17 @@
+{
+  "name": "Admin CPanel 1.0.0 Electronjs By Hà Vũ",
+  "productName": "Admin CPanel 1.0.0 Electronjs By Hà Vũ",
+  "description": "Tool Cho Admin Website NinjaSchool",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "HaVu2931",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "25.2.0"
+  }
+}
